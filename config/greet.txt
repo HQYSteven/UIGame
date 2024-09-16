@@ -1,0 +1,3 @@
+{} (based on pygame, {})
+Python {}
+Hello from the uigame developers. https://www.gitee.com/HQYSTEVEN/uigame/

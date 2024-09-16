@@ -1,0 +1,10 @@
+{
+
+  "close_button_color": [255,45,85],
+  "full_screen_button_color": [255,204,0],
+  "minus_button_color": [52,199,89],
+  "button_radius":8,
+  "bar_height": 40,
+  "window_close_icon": "./asserts/icons/ic_public_cancel.png",
+  "window_icon": "./asserts/default_window_icon.png"
+}

@@ -1,1 +1,8 @@
-
+{
+    "version":"0.0.5",
+    "module_requirements":["pygame 2.5.2","Python 3.11.6"],
+    "module_name":"uigame",
+    "module_status":"alpha",
+    "language":"Python3",
+    "platform_support":["linux","unix"] 
+}
